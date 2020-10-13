@@ -3,4 +3,7 @@ node_modules
 .vscode
 
 uploads/*
+!tmp/.gitkeep
+
+
 ormconfig.json
