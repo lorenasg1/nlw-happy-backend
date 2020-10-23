@@ -1,10 +1,11 @@
 <div align="center">
 
   <h1 align="center">Happy</h1>
-  <p>Platform to connect you and the nearest orphanages in your locale.</p>
+  <p>A Platform to connect you and the institutional shelters in your locality.</p>
   <p>This application was developed during Rocketseat Next Level Week.</p>
 
   <span>
+    <a href="project">Project</a> |
     <a href="tech">Technologies</a> |
     <a href="features">Features</a> |
     <a href="install">Install</a> |
@@ -12,6 +13,18 @@
     <a href="license">License</a> |
   </span>
 </div>
+
+<h2 id="project">Project</h2>
+
+<p>
+Happy is an application to connect people and institutional shelters. Find one, pay a visit, and make the world a better place.
+</p>
+<p>
+The NLW focused on children's shelters, but as my locality does not have this type of institution, I opted to open the scope and make it available also for elderly's shelters.
+</p>
+<p>
+I used to visit the retirement home in my city. The elderly really appreciate it when people go visit and chat with them.
+</p>
 
 <h2 id="tech">Technologies</h2>
 <ul>
